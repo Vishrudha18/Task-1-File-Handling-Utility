@@ -122,7 +122,7 @@ File written successfully.
 This project successfully demonstrates **read, write, and modify operations on text files** using Java, fulfilling the requirements of **TASK-1: File Handling Utility**.
 
 ---
-ge your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
 
 
 
